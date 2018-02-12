@@ -8,6 +8,6 @@ The reusable codes and datasets for paper: Adaptive Brain Signal Classification 
 
 2. In this paper we regard the combination of the convolutional mapping procedure and the classifier as the reward model. To make it more readable and help to design your own reward model, we separately write the reward model as a single python file: B_1DCNN.py. Please design your own reward model corresponding to your problem and insert it in the env_spatial_autoregressive.py. I left the insert position blank and added comments already.
 
-3. All the download method is given for all the public and local datasets.
+3. The download method is given for all the public and local datasets.
 
 For more details, please contact 1015xzhang@gmail.com
