@@ -1,0 +1,11 @@
+1. The eegmmidb dataset can be downloaded in this link:
+https://www.physionet.org/pn4/eegmmidb/
+
+2. The emotiv is our local dataset, please refer to our PerCom 2018 paper:Converting Your Thoughts to Texts: Enabling Brain Typing via Deep Feature Learning of EEG Signals.
+The download link is: 
+https://drive.google.com/open?id=0B9MuJb6Xx2PIM0otakxuVHpkWkk
+
+3. The EEG-S is a subset of the eegmmidb dataset. Take one single task and mark the person ID as label. Classifying the person ID, which is so called person identification.
+
+4. The TUH is an excellent public EEG dataset released by Temple University Hospotial. Download here: https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml
+In this paper, we are using the TUH EEG Seizure Corpus (v1.0.3) released on 26/04/2017. This dataset is 11.6 G, which is too big that we only use a subset of it in our paper.
